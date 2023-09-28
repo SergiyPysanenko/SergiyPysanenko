@@ -20,7 +20,7 @@ I've transitioned to frontend development through self-direI completed GoIT's co
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SergiyPysanenko&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
+### 😂 Random Dev Meme //Only for good mood😂
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
